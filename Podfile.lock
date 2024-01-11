@@ -1,0 +1,21 @@
+PODS:
+  - AWSCore (2.33.5)
+  - AWSLogs (2.33.5):
+    - AWSCore (= 2.33.5)
+
+DEPENDENCIES:
+  - AWSCore
+  - AWSLogs
+
+SPEC REPOS:
+  trunk:
+    - AWSCore
+    - AWSLogs
+
+SPEC CHECKSUMS:
+  AWSCore: 6d8aa46c210e37f15c10509437a9c8570f7290bd
+  AWSLogs: 0bfdae7dac747dbb0f3241903f3b7ffe58761949
+
+PODFILE CHECKSUM: ffb52ff5c69f94e88874d29da697e3c1f5e34b9f
+
+COCOAPODS: 1.14.3

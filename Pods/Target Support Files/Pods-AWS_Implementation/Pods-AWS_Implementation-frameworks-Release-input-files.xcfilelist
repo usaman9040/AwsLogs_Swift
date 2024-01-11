@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-AWS_Implementation/Pods-AWS_Implementation-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AWSCore/AWSCore.framework
+${BUILT_PRODUCTS_DIR}/AWSLogs/AWSLogs.framework
